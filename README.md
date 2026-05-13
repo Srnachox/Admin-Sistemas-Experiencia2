@@ -1,4 +1,7 @@
+### Evidencias Finales
+![Configuracion AD](nombre_de_tu_foto.png)
 # Admin-Sistemas-Experiencia2
+
 Puedes poner algo como: "Documentación de implementación de Active Directory en Windows Server 2019 y configuración de usuarios en Linux RHEL9".
 <img width="1288" height="808" alt="Captura de pantalla 2026-05-13 144111" src="https://github.com/user-attachments/assets/ef8c0b05-fa3b-4580-9675-e823dc98ea32" />
 ## 1. Configuración de Linux (RHEL9/Similar)
