@@ -75,3 +75,7 @@ Se procedió con la creación de la estructura de usuarios y grupos solicitada:
 <img width="1289" height="970" alt="Captura de pantalla 2026-05-13 162238" src="https://github.com/user-attachments/assets/94050da3-ea70-408b-947f-d8f6b38b5a26" />
 <img width="552" height="483" alt="Captura de pantalla 2026-05-13 162207" src="https://github.com/user-attachments/assets/63cf698e-80d5-46ce-9c4b-e0190b00a79d" />
 <img width="553" height="481" alt="Captura de pantalla 2026-05-13 162153" src="https://github.com/user-attachments/assets/1c7f2d5b-c2bf-4ae2-bb34-0911bd8231fe" />
+
+<img width="554" height="479" alt="Captura de pantalla 2026-05-13 162336" src="https://github.com/user-attachments/assets/e56855ac-2abf-403a-ae75-ec71b90517dd" />
+<img width="553" height="482" alt="Captura de pantalla 2026-05-13 162309" src="https://github.com/user-attachments/assets/46c9cdb2-2df0-4d21-8644-8244424e5889" />
+
