@@ -1,5 +1,5 @@
 ### Evidencias Finales
-![Configuracion AD](nombre_de_tu_foto.png)
+![Configuracion AD](<img width="64" height="64" alt="193240438" src="https://github.com/user-attachments/assets/31e000c1-ce5c-4a11-8267-f718663885c3" />.png)
 # Admin-Sistemas-Experiencia2
 
 Puedes poner algo como: "Documentación de implementación de Active Directory en Windows Server 2019 y configuración de usuarios en Linux RHEL9".
